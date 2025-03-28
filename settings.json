@@ -1,0 +1,24 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.cursorStyle": "block",
+    "extensions.ignoreRecommendations": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnEnter": "smart",
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.filePath": "on",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 24,
+    "editor.semanticHighlighting.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "[cpp]": {
+        "editor.defaultFormatter": "zachflower.uncrustify"
+    },
+    "uncrustify.configPath.linux": "./uncrustify.cfg",
+    "uncrustify.executablePath.linux": "/usr/bin/uncrustify"
+}
